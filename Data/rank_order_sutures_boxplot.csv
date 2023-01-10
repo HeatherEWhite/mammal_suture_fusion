@@ -1,0 +1,683 @@
+Species,closure_rank,Suture,Suture_number,Dev_origin
+Bettongia penicillata,9,Interfrontal,suture01,Neural crest
+Bradypus tridactylus,4,Interfrontal,suture01,Neural crest
+Sapajus apella,1,Interfrontal,suture01,Neural crest
+Cyclopes didactylus,7,Interfrontal,suture01,Neural crest
+Dasyprocta leporina,8,Interfrontal,suture01,Neural crest
+Dasypus novemcinctus,27,Interfrontal,suture01,Neural crest
+Epomops franqueti,5,Interfrontal,suture01,Neural crest
+Felis catus,8,Interfrontal,suture01,Neural crest
+Macroscelides proboscideus,20,Interfrontal,suture01,Neural crest
+Phataginus tricuspis,8,Interfrontal,suture01,Neural crest
+Microcebus murinus,8,Interfrontal,suture01,Neural crest
+Monodelphis domestica,11,Interfrontal,suture01,Neural crest
+Mus musculus,4,Interfrontal,suture01,Neural crest
+Ornithorhynchus anatinus,1,Interfrontal,suture01,Neural crest
+Phacochoerus aethiopicus,7,Interfrontal,suture01,Neural crest
+Phascolarctos cincereus,8,Interfrontal,suture01,Neural crest
+Rattus rattus,5,Interfrontal,suture01,Neural crest
+Setifer setosus,15,Interfrontal,suture01,Neural crest
+Setonix brachyurus,6,Interfrontal,suture01,Neural crest
+Sminthopsis macroura,16,Interfrontal,suture01,Neural crest
+Talpa europaea,12,Interfrontal,suture01,Neural crest
+Trichosaurus vulpecula,19,Interfrontal,suture01,Neural crest
+Bettongia penicillata,5,Fronto.parietal,suture02,Boundary
+Bradypus tridactylus,3,Fronto.parietal,suture02,Boundary
+Sapajus apella,13,Fronto.parietal,suture02,Boundary
+Cyclopes didactylus,12,Fronto.parietal,suture02,Boundary
+Dasyprocta leporina,6,Fronto.parietal,suture02,Boundary
+Dasypus novemcinctus,12,Fronto.parietal,suture02,Boundary
+Epomops franqueti,3,Fronto.parietal,suture02,Boundary
+Felis catus,1,Fronto.parietal,suture02,Boundary
+Macroscelides proboscideus,12,Fronto.parietal,suture02,Boundary
+Phataginus tricuspis,13,Fronto.parietal,suture02,Boundary
+Microcebus murinus,8,Fronto.parietal,suture02,Boundary
+Monodelphis domestica,9,Fronto.parietal,suture02,Boundary
+Mus musculus,13,Fronto.parietal,suture02,Boundary
+Ornithorhynchus anatinus,12,Fronto.parietal,suture02,Boundary
+Phacochoerus aethiopicus,12,Fronto.parietal,suture02,Boundary
+Phascolarctos cincereus,15,Fronto.parietal,suture02,Boundary
+Rattus rattus,7,Fronto.parietal,suture02,Boundary
+Setifer setosus,4,Fronto.parietal,suture02,Boundary
+Setonix brachyurus,11,Fronto.parietal,suture02,Boundary
+Sminthopsis macroura,11,Fronto.parietal,suture02,Boundary
+Talpa europaea,6,Fronto.parietal,suture02,Boundary
+Trichosaurus vulpecula,7,Fronto.parietal,suture02,Boundary
+Bettongia penicillata,12,Interparietal,suture03,Mesoderm
+Bradypus tridactylus,6,Interparietal,suture03,Mesoderm
+Sapajus apella,24,Interparietal,suture03,Mesoderm
+Cyclopes didactylus,16,Interparietal,suture03,Mesoderm
+Dasyprocta leporina,9,Interparietal,suture03,Mesoderm
+Dasypus novemcinctus,18,Interparietal,suture03,Mesoderm
+Epomops franqueti,7,Interparietal,suture03,Mesoderm
+Felis catus,15,Interparietal,suture03,Mesoderm
+Macroscelides proboscideus,26,Interparietal,suture03,Mesoderm
+Phataginus tricuspis,13,Interparietal,suture03,Mesoderm
+Microcebus murinus,12,Interparietal,suture03,Mesoderm
+Monodelphis domestica,24,Interparietal,suture03,Mesoderm
+Mus musculus,19,Interparietal,suture03,Mesoderm
+Ornithorhynchus anatinus,1,Interparietal,suture03,Mesoderm
+Phacochoerus aethiopicus,1,Interparietal,suture03,Mesoderm
+Phascolarctos cincereus,11,Interparietal,suture03,Mesoderm
+Rattus rattus,19,Interparietal,suture03,Mesoderm
+Setifer setosus,24,Interparietal,suture03,Mesoderm
+Setonix brachyurus,16,Interparietal,suture03,Mesoderm
+Sminthopsis macroura,29,Interparietal,suture03,Mesoderm
+Talpa europaea,27,Interparietal,suture03,Mesoderm
+Trichosaurus vulpecula,21,Interparietal,suture03,Mesoderm
+Bettongia penicillata,12,Supraoccipito.parietal,suture04,Mesoderm
+Bradypus tridactylus,9,Supraoccipito.parietal,suture04,Mesoderm
+Sapajus apella,24,Supraoccipito.parietal,suture04,Mesoderm
+Cyclopes didactylus,16,Supraoccipito.parietal,suture04,Mesoderm
+Dasyprocta leporina,11,Supraoccipito.parietal,suture04,Mesoderm
+Dasypus novemcinctus,18,Supraoccipito.parietal,suture04,Mesoderm
+Epomops franqueti,7,Supraoccipito.parietal,suture04,Mesoderm
+Felis catus,15,Supraoccipito.parietal,suture04,Mesoderm
+Macroscelides proboscideus,12,Supraoccipito.parietal,suture04,Mesoderm
+Phataginus tricuspis,8,Supraoccipito.parietal,suture04,Mesoderm
+Microcebus murinus,26,Supraoccipito.parietal,suture04,Mesoderm
+Monodelphis domestica,13,Supraoccipito.parietal,suture04,Mesoderm
+Mus musculus,22,Supraoccipito.parietal,suture04,Mesoderm
+Ornithorhynchus anatinus,12,Supraoccipito.parietal,suture04,Mesoderm
+Phacochoerus aethiopicus,9,Supraoccipito.parietal,suture04,Mesoderm
+Phascolarctos cincereus,11,Supraoccipito.parietal,suture04,Mesoderm
+Rattus rattus,23,Supraoccipito.parietal,suture04,Mesoderm
+Setifer setosus,12,Supraoccipito.parietal,suture04,Mesoderm
+Setonix brachyurus,13,Supraoccipito.parietal,suture04,Mesoderm
+Sminthopsis macroura,25,Supraoccipito.parietal,suture04,Mesoderm
+Talpa europaea,25,Supraoccipito.parietal,suture04,Mesoderm
+Trichosaurus vulpecula,13,Supraoccipito.parietal,suture04,Mesoderm
+Bettongia penicillata,20,Basispheno.presphenoid,suture05,Neural crest
+Bradypus tridactylus,27,Basispheno.presphenoid,suture05,Neural crest
+Sapajus apella,30,Basispheno.presphenoid,suture05,Neural crest
+Cyclopes didactylus,24,Basispheno.presphenoid,suture05,Neural crest
+Dasyprocta leporina,21,Basispheno.presphenoid,suture05,Neural crest
+Dasypus novemcinctus,25,Basispheno.presphenoid,suture05,Neural crest
+Epomops franqueti,20,Basispheno.presphenoid,suture05,Neural crest
+Felis catus,15,Basispheno.presphenoid,suture05,Neural crest
+Macroscelides proboscideus,1,Basispheno.presphenoid,suture05,Neural crest
+Phataginus tricuspis,18,Basispheno.presphenoid,suture05,Neural crest
+Microcebus murinus,31,Basispheno.presphenoid,suture05,Neural crest
+Monodelphis domestica,30,Basispheno.presphenoid,suture05,Neural crest
+Mus musculus,28,Basispheno.presphenoid,suture05,Neural crest
+Ornithorhynchus anatinus,20,Basispheno.presphenoid,suture05,Neural crest
+Phacochoerus aethiopicus,14,Basispheno.presphenoid,suture05,Neural crest
+Phascolarctos cincereus,27,Basispheno.presphenoid,suture05,Neural crest
+Rattus rattus,30,Basispheno.presphenoid,suture05,Neural crest
+Setifer setosus,22,Basispheno.presphenoid,suture05,Neural crest
+Setonix brachyurus,30,Basispheno.presphenoid,suture05,Neural crest
+Sminthopsis macroura,25,Basispheno.presphenoid,suture05,Neural crest
+Talpa europaea,22,Basispheno.presphenoid,suture05,Neural crest
+Trichosaurus vulpecula,24,Basispheno.presphenoid,suture05,Neural crest
+Bettongia penicillata,20,Basispheno.basioccipital,suture06,Boundary
+Bradypus tridactylus,22,Basispheno.basioccipital,suture06,Boundary
+Sapajus apella,29,Basispheno.basioccipital,suture06,Boundary
+Cyclopes didactylus,18,Basispheno.basioccipital,suture06,Boundary
+Dasyprocta leporina,31,Basispheno.basioccipital,suture06,Boundary
+Dasypus novemcinctus,23,Basispheno.basioccipital,suture06,Boundary
+Epomops franqueti,26,Basispheno.basioccipital,suture06,Boundary
+Felis catus,27,Basispheno.basioccipital,suture06,Boundary
+Macroscelides proboscideus,29,Basispheno.basioccipital,suture06,Boundary
+Phataginus tricuspis,18,Basispheno.basioccipital,suture06,Boundary
+Microcebus murinus,29,Basispheno.basioccipital,suture06,Boundary
+Monodelphis domestica,27,Basispheno.basioccipital,suture06,Boundary
+Mus musculus,27,Basispheno.basioccipital,suture06,Boundary
+Ornithorhynchus anatinus,20,Basispheno.basioccipital,suture06,Boundary
+Phacochoerus aethiopicus,23,Basispheno.basioccipital,suture06,Boundary
+Phascolarctos cincereus,27,Basispheno.basioccipital,suture06,Boundary
+Rattus rattus,29,Basispheno.basioccipital,suture06,Boundary
+Setifer setosus,27,Basispheno.basioccipital,suture06,Boundary
+Setonix brachyurus,30,Basispheno.basioccipital,suture06,Boundary
+Sminthopsis macroura,28,Basispheno.basioccipital,suture06,Boundary
+Talpa europaea,19,Basispheno.basioccipital,suture06,Boundary
+Trichosaurus vulpecula,24,Basispheno.basioccipital,suture06,Boundary
+Bettongia penicillata,20,Exoccipito.basioccipital,suture07,Mesoderm
+Bradypus tridactylus,22,Exoccipito.basioccipital,suture07,Mesoderm
+Sapajus apella,13,Exoccipito.basioccipital,suture07,Mesoderm
+Cyclopes didactylus,18,Exoccipito.basioccipital,suture07,Mesoderm
+Dasyprocta leporina,18,Exoccipito.basioccipital,suture07,Mesoderm
+Dasypus novemcinctus,31,Exoccipito.basioccipital,suture07,Mesoderm
+Epomops franqueti,14,Exoccipito.basioccipital,suture07,Mesoderm
+Felis catus,15,Exoccipito.basioccipital,suture07,Mesoderm
+Macroscelides proboscideus,17,Exoccipito.basioccipital,suture07,Mesoderm
+Phataginus tricuspis,18,Exoccipito.basioccipital,suture07,Mesoderm
+Microcebus murinus,8,Exoccipito.basioccipital,suture07,Mesoderm
+Monodelphis domestica,22,Exoccipito.basioccipital,suture07,Mesoderm
+Mus musculus,7,Exoccipito.basioccipital,suture07,Mesoderm
+Ornithorhynchus anatinus,29,Exoccipito.basioccipital,suture07,Mesoderm
+Phacochoerus aethiopicus,12,Exoccipito.basioccipital,suture07,Mesoderm
+Phascolarctos cincereus,27,Exoccipito.basioccipital,suture07,Mesoderm
+Rattus rattus,19,Exoccipito.basioccipital,suture07,Mesoderm
+Setifer setosus,19,Exoccipito.basioccipital,suture07,Mesoderm
+Setonix brachyurus,22,Exoccipito.basioccipital,suture07,Mesoderm
+Sminthopsis macroura,20,Exoccipito.basioccipital,suture07,Mesoderm
+Talpa europaea,27,Exoccipito.basioccipital,suture07,Mesoderm
+Trichosaurus vulpecula,24,Exoccipito.basioccipital,suture07,Mesoderm
+Bettongia penicillata,20,Exoccipito.squamosal,suture08,Boundary
+Bradypus tridactylus,20,Exoccipito.squamosal,suture08,Boundary
+Sapajus apella,17,Exoccipito.squamosal,suture08,Boundary
+Cyclopes didactylus,12,Exoccipito.squamosal,suture08,Boundary
+Dasyprocta leporina,26,Exoccipito.squamosal,suture08,Boundary
+Dasypus novemcinctus,18,Exoccipito.squamosal,suture08,Boundary
+Epomops franqueti,20,Exoccipito.squamosal,suture08,Boundary
+Felis catus,27,Exoccipito.squamosal,suture08,Boundary
+Macroscelides proboscideus,22,Exoccipito.squamosal,suture08,Boundary
+Phataginus tricuspis,13,Exoccipito.squamosal,suture08,Boundary
+Microcebus murinus,12,Exoccipito.squamosal,suture08,Boundary
+Monodelphis domestica,27,Exoccipito.squamosal,suture08,Boundary
+Mus musculus,31,Exoccipito.squamosal,suture08,Boundary
+Ornithorhynchus anatinus,12,Exoccipito.squamosal,suture08,Boundary
+Phacochoerus aethiopicus,11,Exoccipito.squamosal,suture08,Boundary
+Phascolarctos cincereus,18,Exoccipito.squamosal,suture08,Boundary
+Rattus rattus,26,Exoccipito.squamosal,suture08,Boundary
+Setifer setosus,29,Exoccipito.squamosal,suture08,Boundary
+Setonix brachyurus,19,Exoccipito.squamosal,suture08,Boundary
+Sminthopsis macroura,16,Exoccipito.squamosal,suture08,Boundary
+Talpa europaea,31,Exoccipito.squamosal,suture08,Boundary
+Trichosaurus vulpecula,7,Exoccipito.squamosal,suture08,Boundary
+Bettongia penicillata,20,Exoccipito.supraoccipital,suture09,Mesoderm
+Bradypus tridactylus,12,Exoccipito.supraoccipital,suture09,Mesoderm
+Sapajus apella,6,Exoccipito.supraoccipital,suture09,Mesoderm
+Cyclopes didactylus,12,Exoccipito.supraoccipital,suture09,Mesoderm
+Dasyprocta leporina,26,Exoccipito.supraoccipital,suture09,Mesoderm
+Dasypus novemcinctus,27,Exoccipito.supraoccipital,suture09,Mesoderm
+Epomops franqueti,14,Exoccipito.supraoccipital,suture09,Mesoderm
+Felis catus,5,Exoccipito.supraoccipital,suture09,Mesoderm
+Macroscelides proboscideus,27,Exoccipito.supraoccipital,suture09,Mesoderm
+Phataginus tricuspis,1,Exoccipito.supraoccipital,suture09,Mesoderm
+Microcebus murinus,12,Exoccipito.supraoccipital,suture09,Mesoderm
+Monodelphis domestica,26,Exoccipito.supraoccipital,suture09,Mesoderm
+Mus musculus,4,Exoccipito.supraoccipital,suture09,Mesoderm
+Ornithorhynchus anatinus,25,Exoccipito.supraoccipital,suture09,Mesoderm
+Phacochoerus aethiopicus,27,Exoccipito.supraoccipital,suture09,Mesoderm
+Phascolarctos cincereus,27,Exoccipito.supraoccipital,suture09,Mesoderm
+Rattus rattus,19,Exoccipito.supraoccipital,suture09,Mesoderm
+Setifer setosus,18,Exoccipito.supraoccipital,suture09,Mesoderm
+Setonix brachyurus,22,Exoccipito.supraoccipital,suture09,Mesoderm
+Sminthopsis macroura,19,Exoccipito.supraoccipital,suture09,Mesoderm
+Talpa europaea,30,Exoccipito.supraoccipital,suture09,Mesoderm
+Trichosaurus vulpecula,24,Exoccipito.supraoccipital,suture09,Mesoderm
+Bettongia penicillata,3,Alispheno.squamosal,suture10,Neural crest
+Bradypus tridactylus,12,Alispheno.squamosal,suture10,Neural crest
+Sapajus apella,17,Alispheno.squamosal,suture10,Neural crest
+Cyclopes didactylus,18,Alispheno.squamosal,suture10,Neural crest
+Dasyprocta leporina,6,Alispheno.squamosal,suture10,Neural crest
+Dasypus novemcinctus,12,Alispheno.squamosal,suture10,Neural crest
+Epomops franqueti,14,Alispheno.squamosal,suture10,Neural crest
+Felis catus,2,Alispheno.squamosal,suture10,Neural crest
+Macroscelides proboscideus,8,Alispheno.squamosal,suture10,Neural crest
+Phataginus tricuspis,12,Alispheno.squamosal,suture10,Neural crest
+Microcebus murinus,3,Alispheno.squamosal,suture10,Neural crest
+Monodelphis domestica,7,Alispheno.squamosal,suture10,Neural crest
+Mus musculus,7,Alispheno.squamosal,suture10,Neural crest
+Ornithorhynchus anatinus,1,Alispheno.squamosal,suture10,Neural crest
+Phacochoerus aethiopicus,2,Alispheno.squamosal,suture10,Neural crest
+Phascolarctos cincereus,8,Alispheno.squamosal,suture10,Neural crest
+Rattus rattus,5,Alispheno.squamosal,suture10,Neural crest
+Setifer setosus,4,Alispheno.squamosal,suture10,Neural crest
+Setonix brachyurus,3,Alispheno.squamosal,suture10,Neural crest
+Sminthopsis macroura,15,Alispheno.squamosal,suture10,Neural crest
+Talpa europaea,13,Alispheno.squamosal,suture10,Neural crest
+Trichosaurus vulpecula,3,Alispheno.squamosal,suture10,Neural crest
+Bettongia penicillata,20,Alispheno.orbitosphenoid,suture11,Boundary
+Bradypus tridactylus,22,Alispheno.orbitosphenoid,suture11,Boundary
+Sapajus apella,24,Alispheno.orbitosphenoid,suture11,Boundary
+Cyclopes didactylus,25,Alispheno.orbitosphenoid,suture11,Boundary
+Dasyprocta leporina,11,Alispheno.orbitosphenoid,suture11,Boundary
+Dasypus novemcinctus,23,Alispheno.orbitosphenoid,suture11,Boundary
+Epomops franqueti,24,Alispheno.orbitosphenoid,suture11,Boundary
+Felis catus,26,Alispheno.orbitosphenoid,suture11,Boundary
+Macroscelides proboscideus,22,Alispheno.orbitosphenoid,suture11,Boundary
+Phataginus tricuspis,13,Alispheno.orbitosphenoid,suture11,Boundary
+Microcebus murinus,12,Alispheno.orbitosphenoid,suture11,Boundary
+Monodelphis domestica,29,Alispheno.orbitosphenoid,suture11,Boundary
+Mus musculus,22,Alispheno.orbitosphenoid,suture11,Boundary
+Ornithorhynchus anatinus,27,Alispheno.orbitosphenoid,suture11,Boundary
+Phacochoerus aethiopicus,20,Alispheno.orbitosphenoid,suture11,Boundary
+Phascolarctos cincereus,22,Alispheno.orbitosphenoid,suture11,Boundary
+Rattus rattus,17,Alispheno.orbitosphenoid,suture11,Boundary
+Setifer setosus,25,Alispheno.orbitosphenoid,suture11,Boundary
+Setonix brachyurus,22,Alispheno.orbitosphenoid,suture11,Boundary
+Sminthopsis macroura,29,Alispheno.orbitosphenoid,suture11,Boundary
+Talpa europaea,25,Alispheno.orbitosphenoid,suture11,Boundary
+Trichosaurus vulpecula,24,Alispheno.orbitosphenoid,suture11,Boundary
+Bettongia penicillata,20,Orbitospheno.frontal,suture12,Boundary
+Bradypus tridactylus,16,Orbitospheno.frontal,suture12,Boundary
+Sapajus apella,24,Orbitospheno.frontal,suture12,Boundary
+Cyclopes didactylus,11,Orbitospheno.frontal,suture12,Boundary
+Dasyprocta leporina,14,Orbitospheno.frontal,suture12,Boundary
+Dasypus novemcinctus,12,Orbitospheno.frontal,suture12,Boundary
+Epomops franqueti,20,Orbitospheno.frontal,suture12,Boundary
+Felis catus,15,Orbitospheno.frontal,suture12,Boundary
+Macroscelides proboscideus,12,Orbitospheno.frontal,suture12,Boundary
+Phataginus tricuspis,7,Orbitospheno.frontal,suture12,Boundary
+Microcebus murinus,12,Orbitospheno.frontal,suture12,Boundary
+Monodelphis domestica,25,Orbitospheno.frontal,suture12,Boundary
+Mus musculus,22,Orbitospheno.frontal,suture12,Boundary
+Ornithorhynchus anatinus,20,Orbitospheno.frontal,suture12,Boundary
+Phacochoerus aethiopicus,7,Orbitospheno.frontal,suture12,Boundary
+Phascolarctos cincereus,11,Orbitospheno.frontal,suture12,Boundary
+Rattus rattus,24,Orbitospheno.frontal,suture12,Boundary
+Setifer setosus,7,Orbitospheno.frontal,suture12,Boundary
+Setonix brachyurus,17,Orbitospheno.frontal,suture12,Boundary
+Sminthopsis macroura,16,Orbitospheno.frontal,suture12,Boundary
+Talpa europaea,15,Orbitospheno.frontal,suture12,Boundary
+Trichosaurus vulpecula,14,Orbitospheno.frontal,suture12,Boundary
+Bettongia penicillata,12,Fronto.squamosal,suture13,Neural crest
+Bradypus tridactylus,22,Fronto.squamosal,suture13,Neural crest
+Sapajus apella,30,Fronto.squamosal,suture13,Neural crest
+Cyclopes didactylus,26,Fronto.squamosal,suture13,Neural crest
+Dasyprocta leporina,3,Fronto.squamosal,suture13,Neural crest
+Dasypus novemcinctus,27,Fronto.squamosal,suture13,Neural crest
+Epomops franqueti,29,Fronto.squamosal,suture13,Neural crest
+Felis catus,5,Fronto.squamosal,suture13,Neural crest
+Macroscelides proboscideus,17,Fronto.squamosal,suture13,Neural crest
+Phataginus tricuspis,23,Fronto.squamosal,suture13,Neural crest
+Microcebus murinus,12,Fronto.squamosal,suture13,Neural crest
+Monodelphis domestica,20,Fronto.squamosal,suture13,Neural crest
+Mus musculus,2,Fronto.squamosal,suture13,Neural crest
+Ornithorhynchus anatinus,30,Fronto.squamosal,suture13,Neural crest
+Phacochoerus aethiopicus,2,Fronto.squamosal,suture13,Neural crest
+Phascolarctos cincereus,24,Fronto.squamosal,suture13,Neural crest
+Rattus rattus,15,Fronto.squamosal,suture13,Neural crest
+Setifer setosus,3,Fronto.squamosal,suture13,Neural crest
+Setonix brachyurus,22,Fronto.squamosal,suture13,Neural crest
+Sminthopsis macroura,5,Fronto.squamosal,suture13,Neural crest
+Talpa europaea,19,Fronto.squamosal,suture13,Neural crest
+Trichosaurus vulpecula,24,Fronto.squamosal,suture13,Neural crest
+Bettongia penicillata,2,Parieto.squamosal,suture14,Boundary
+Bradypus tridactylus,8,Parieto.squamosal,suture14,Boundary
+Sapajus apella,8,Parieto.squamosal,suture14,Boundary
+Cyclopes didactylus,18,Parieto.squamosal,suture14,Boundary
+Dasyprocta leporina,5,Parieto.squamosal,suture14,Boundary
+Dasypus novemcinctus,18,Parieto.squamosal,suture14,Boundary
+Epomops franqueti,1,Parieto.squamosal,suture14,Boundary
+Felis catus,2,Parieto.squamosal,suture14,Boundary
+Macroscelides proboscideus,3,Parieto.squamosal,suture14,Boundary
+Phataginus tricuspis,23,Parieto.squamosal,suture14,Boundary
+Microcebus murinus,12,Parieto.squamosal,suture14,Boundary
+Monodelphis domestica,11,Parieto.squamosal,suture14,Boundary
+Mus musculus,11,Parieto.squamosal,suture14,Boundary
+Ornithorhynchus anatinus,1,Parieto.squamosal,suture14,Boundary
+Phacochoerus aethiopicus,5,Parieto.squamosal,suture14,Boundary
+Phascolarctos cincereus,11,Parieto.squamosal,suture14,Boundary
+Rattus rattus,3,Parieto.squamosal,suture14,Boundary
+Setifer setosus,6,Parieto.squamosal,suture14,Boundary
+Setonix brachyurus,5,Parieto.squamosal,suture14,Boundary
+Sminthopsis macroura,8,Parieto.squamosal,suture14,Boundary
+Talpa europaea,14,Parieto.squamosal,suture14,Boundary
+Trichosaurus vulpecula,7,Parieto.squamosal,suture14,Boundary
+Bettongia penicillata,20,Supraoccipito.squamosal,suture15,Boundary
+Bradypus tridactylus,16,Supraoccipito.squamosal,suture15,Boundary
+Sapajus apella,28,Supraoccipito.squamosal,suture15,Boundary
+Cyclopes didactylus,18,Supraoccipito.squamosal,suture15,Boundary
+Dasyprocta leporina,9,Supraoccipito.squamosal,suture15,Boundary
+Dasypus novemcinctus,27,Supraoccipito.squamosal,suture15,Boundary
+Epomops franqueti,26,Supraoccipito.squamosal,suture15,Boundary
+Felis catus,27,Supraoccipito.squamosal,suture15,Boundary
+Macroscelides proboscideus,27,Supraoccipito.squamosal,suture15,Boundary
+Phataginus tricuspis,18,Supraoccipito.squamosal,suture15,Boundary
+Microcebus murinus,24,Supraoccipito.squamosal,suture15,Boundary
+Monodelphis domestica,31,Supraoccipito.squamosal,suture15,Boundary
+Mus musculus,30,Supraoccipito.squamosal,suture15,Boundary
+Ornithorhynchus anatinus,17,Supraoccipito.squamosal,suture15,Boundary
+Phacochoerus aethiopicus,9,Supraoccipito.squamosal,suture15,Boundary
+Phascolarctos cincereus,27,Supraoccipito.squamosal,suture15,Boundary
+Rattus rattus,26,Supraoccipito.squamosal,suture15,Boundary
+Setifer setosus,28,Supraoccipito.squamosal,suture15,Boundary
+Setonix brachyurus,22,Supraoccipito.squamosal,suture15,Boundary
+Sminthopsis macroura,22,Supraoccipito.squamosal,suture15,Boundary
+Talpa europaea,23,Supraoccipito.squamosal,suture15,Boundary
+Trichosaurus vulpecula,24,Supraoccipito.squamosal,suture15,Boundary
+Bettongia penicillata,12,Interpremaxillary,suture16,Neural crest
+Bradypus tridactylus,1,Interpremaxillary,suture16,Neural crest
+Sapajus apella,20,Interpremaxillary,suture16,Neural crest
+Cyclopes didactylus,1,Interpremaxillary,suture16,Neural crest
+Dasyprocta leporina,1,Interpremaxillary,suture16,Neural crest
+Dasypus novemcinctus,10,Interpremaxillary,suture16,Neural crest
+Epomops franqueti,29,Interpremaxillary,suture16,Neural crest
+Felis catus,11,Interpremaxillary,suture16,Neural crest
+Macroscelides proboscideus,1,Interpremaxillary,suture16,Neural crest
+Phataginus tricuspis,2,Interpremaxillary,suture16,Neural crest
+Microcebus murinus,1,Interpremaxillary,suture16,Neural crest
+Monodelphis domestica,1,Interpremaxillary,suture16,Neural crest
+Mus musculus,4,Interpremaxillary,suture16,Neural crest
+Ornithorhynchus anatinus,30,Interpremaxillary,suture16,Neural crest
+Phacochoerus aethiopicus,31,Interpremaxillary,suture16,Neural crest
+Phascolarctos cincereus,4,Interpremaxillary,suture16,Neural crest
+Rattus rattus,2,Interpremaxillary,suture16,Neural crest
+Setifer setosus,7,Interpremaxillary,suture16,Neural crest
+Setonix brachyurus,8,Interpremaxillary,suture16,Neural crest
+Sminthopsis macroura,1,Interpremaxillary,suture16,Neural crest
+Talpa europaea,4,Interpremaxillary,suture16,Neural crest
+Trichosaurus vulpecula,18,Interpremaxillary,suture16,Neural crest
+Bettongia penicillata,20,Intermaxillary,suture17,Neural crest
+Bradypus tridactylus,16,Intermaxillary,suture17,Neural crest
+Sapajus apella,13,Intermaxillary,suture17,Neural crest
+Cyclopes didactylus,7,Intermaxillary,suture17,Neural crest
+Dasyprocta leporina,26,Intermaxillary,suture17,Neural crest
+Dasypus novemcinctus,12,Intermaxillary,suture17,Neural crest
+Epomops franqueti,7,Intermaxillary,suture17,Neural crest
+Felis catus,15,Intermaxillary,suture17,Neural crest
+Macroscelides proboscideus,3,Intermaxillary,suture17,Neural crest
+Phataginus tricuspis,6,Intermaxillary,suture17,Neural crest
+Microcebus murinus,12,Intermaxillary,suture17,Neural crest
+Monodelphis domestica,20,Intermaxillary,suture17,Neural crest
+Mus musculus,22,Intermaxillary,suture17,Neural crest
+Ornithorhynchus anatinus,1,Intermaxillary,suture17,Neural crest
+Phacochoerus aethiopicus,27,Intermaxillary,suture17,Neural crest
+Phascolarctos cincereus,6,Intermaxillary,suture17,Neural crest
+Rattus rattus,7,Intermaxillary,suture17,Neural crest
+Setifer setosus,11,Intermaxillary,suture17,Neural crest
+Setonix brachyurus,27,Intermaxillary,suture17,Neural crest
+Sminthopsis macroura,23,Intermaxillary,suture17,Neural crest
+Talpa europaea,1,Intermaxillary,suture17,Neural crest
+Trichosaurus vulpecula,14,Intermaxillary,suture17,Neural crest
+Bettongia penicillata,20,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Bradypus tridactylus,28,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Sapajus apella,17,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Cyclopes didactylus,26,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Dasyprocta leporina,21,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Dasypus novemcinctus,4,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Epomops franqueti,29,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Felis catus,11,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Macroscelides proboscideus,24,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Phataginus tricuspis,25,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Microcebus murinus,26,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Monodelphis domestica,22,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Mus musculus,19,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Ornithorhynchus anatinus,12,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Phacochoerus aethiopicus,25,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Phascolarctos cincereus,15,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Rattus rattus,13,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Setifer setosus,22,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Setonix brachyurus,29,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Sminthopsis macroura,20,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Talpa europaea,23,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Trichosaurus vulpecula,19,Premaxillo.maxillary..ventral.,suture18,Neural crest
+Bettongia penicillata,31,Interpalatine,suture19,Neural crest
+Bradypus tridactylus,16,Interpalatine,suture19,Neural crest
+Sapajus apella,20,Interpalatine,suture19,Neural crest
+Cyclopes didactylus,3,Interpalatine,suture19,Neural crest
+Dasyprocta leporina,2,Interpalatine,suture19,Neural crest
+Dasypus novemcinctus,18,Interpalatine,suture19,Neural crest
+Epomops franqueti,14,Interpalatine,suture19,Neural crest
+Felis catus,30,Interpalatine,suture19,Neural crest
+Macroscelides proboscideus,5,Interpalatine,suture19,Neural crest
+Phataginus tricuspis,8,Interpalatine,suture19,Neural crest
+Microcebus murinus,24,Interpalatine,suture19,Neural crest
+Monodelphis domestica,19,Interpalatine,suture19,Neural crest
+Mus musculus,26,Interpalatine,suture19,Neural crest
+Ornithorhynchus anatinus,1,Interpalatine,suture19,Neural crest
+Phacochoerus aethiopicus,24,Interpalatine,suture19,Neural crest
+Phascolarctos cincereus,3,Interpalatine,suture19,Neural crest
+Rattus rattus,3,Interpalatine,suture19,Neural crest
+Setifer setosus,14,Interpalatine,suture19,Neural crest
+Setonix brachyurus,19,Interpalatine,suture19,Neural crest
+Sminthopsis macroura,14,Interpalatine,suture19,Neural crest
+Talpa europaea,11,Interpalatine,suture19,Neural crest
+Trichosaurus vulpecula,21,Interpalatine,suture19,Neural crest
+Bettongia penicillata,11,Maxillo.palatine,suture20,Neural crest
+Bradypus tridactylus,20,Maxillo.palatine,suture20,Neural crest
+Sapajus apella,20,Maxillo.palatine,suture20,Neural crest
+Cyclopes didactylus,12,Maxillo.palatine,suture20,Neural crest
+Dasyprocta leporina,18,Maxillo.palatine,suture20,Neural crest
+Dasypus novemcinctus,4,Maxillo.palatine,suture20,Neural crest
+Epomops franqueti,6,Maxillo.palatine,suture20,Neural crest
+Felis catus,4,Maxillo.palatine,suture20,Neural crest
+Macroscelides proboscideus,20,Maxillo.palatine,suture20,Neural crest
+Phataginus tricuspis,5,Maxillo.palatine,suture20,Neural crest
+Microcebus murinus,12,Maxillo.palatine,suture20,Neural crest
+Monodelphis domestica,17,Maxillo.palatine,suture20,Neural crest
+Mus musculus,7,Maxillo.palatine,suture20,Neural crest
+Ornithorhynchus anatinus,17,Maxillo.palatine,suture20,Neural crest
+Phacochoerus aethiopicus,22,Maxillo.palatine,suture20,Neural crest
+Phascolarctos cincereus,18,Maxillo.palatine,suture20,Neural crest
+Rattus rattus,7,Maxillo.palatine,suture20,Neural crest
+Setifer setosus,15,Maxillo.palatine,suture20,Neural crest
+Setonix brachyurus,18,Maxillo.palatine,suture20,Neural crest
+Sminthopsis macroura,29,Maxillo.palatine,suture20,Neural crest
+Talpa europaea,9,Maxillo.palatine,suture20,Neural crest
+Trichosaurus vulpecula,14,Maxillo.palatine,suture20,Neural crest
+Bettongia penicillata,12,Pterygo.palatine,suture21,Neural crest
+Bradypus tridactylus,12,Pterygo.palatine,suture21,Neural crest
+Sapajus apella,13,Pterygo.palatine,suture21,Neural crest
+Cyclopes didactylus,3,Pterygo.palatine,suture21,Neural crest
+Dasyprocta leporina,21,Pterygo.palatine,suture21,Neural crest
+Dasypus novemcinctus,2,Pterygo.palatine,suture21,Neural crest
+Epomops franqueti,28,Pterygo.palatine,suture21,Neural crest
+Felis catus,11,Pterygo.palatine,suture21,Neural crest
+Macroscelides proboscideus,30,Pterygo.palatine,suture21,Neural crest
+Phataginus tricuspis,29,Pterygo.palatine,suture21,Neural crest
+Microcebus murinus,12,Pterygo.palatine,suture21,Neural crest
+Monodelphis domestica,17,Pterygo.palatine,suture21,Neural crest
+Mus musculus,11,Pterygo.palatine,suture21,Neural crest
+Ornithorhynchus anatinus,27,Pterygo.palatine,suture21,Neural crest
+Phacochoerus aethiopicus,4,Pterygo.palatine,suture21,Neural crest
+Phascolarctos cincereus,4,Pterygo.palatine,suture21,Neural crest
+Rattus rattus,13,Pterygo.palatine,suture21,Neural crest
+Setifer setosus,19,Pterygo.palatine,suture21,Neural crest
+Setonix brachyurus,15,Pterygo.palatine,suture21,Neural crest
+Sminthopsis macroura,5,Pterygo.palatine,suture21,Neural crest
+Talpa europaea,9,Pterygo.palatine,suture21,Neural crest
+Trichosaurus vulpecula,4,Pterygo.palatine,suture21,Neural crest
+Bettongia penicillata,17,Premaxillo.maxillary..facial.,suture22,Neural crest
+Bradypus tridactylus,28,Premaxillo.maxillary..facial.,suture22,Neural crest
+Sapajus apella,4,Premaxillo.maxillary..facial.,suture22,Neural crest
+Cyclopes didactylus,26,Premaxillo.maxillary..facial.,suture22,Neural crest
+Dasyprocta leporina,26,Premaxillo.maxillary..facial.,suture22,Neural crest
+Dasypus novemcinctus,7,Premaxillo.maxillary..facial.,suture22,Neural crest
+Epomops franqueti,7,Premaxillo.maxillary..facial.,suture22,Neural crest
+Felis catus,15,Premaxillo.maxillary..facial.,suture22,Neural crest
+Macroscelides proboscideus,24,Premaxillo.maxillary..facial.,suture22,Neural crest
+Phataginus tricuspis,25,Premaxillo.maxillary..facial.,suture22,Neural crest
+Microcebus murinus,12,Premaxillo.maxillary..facial.,suture22,Neural crest
+Monodelphis domestica,15,Premaxillo.maxillary..facial.,suture22,Neural crest
+Mus musculus,16,Premaxillo.maxillary..facial.,suture22,Neural crest
+Ornithorhynchus anatinus,20,Premaxillo.maxillary..facial.,suture22,Neural crest
+Phacochoerus aethiopicus,30,Premaxillo.maxillary..facial.,suture22,Neural crest
+Phascolarctos cincereus,22,Premaxillo.maxillary..facial.,suture22,Neural crest
+Rattus rattus,15,Premaxillo.maxillary..facial.,suture22,Neural crest
+Setifer setosus,25,Premaxillo.maxillary..facial.,suture22,Neural crest
+Setonix brachyurus,27,Premaxillo.maxillary..facial.,suture22,Neural crest
+Sminthopsis macroura,11,Premaxillo.maxillary..facial.,suture22,Neural crest
+Talpa europaea,17,Premaxillo.maxillary..facial.,suture22,Neural crest
+Trichosaurus vulpecula,21,Premaxillo.maxillary..facial.,suture22,Neural crest
+Bettongia penicillata,7,Premaxillo.nasal,suture23,Neural crest
+Bradypus tridactylus,28,Premaxillo.nasal,suture23,Neural crest
+Sapajus apella,8,Premaxillo.nasal,suture23,Neural crest
+Cyclopes didactylus,26,Premaxillo.nasal,suture23,Neural crest
+Dasyprocta leporina,21,Premaxillo.nasal,suture23,Neural crest
+Dasypus novemcinctus,4,Premaxillo.nasal,suture23,Neural crest
+Epomops franqueti,14,Premaxillo.nasal,suture23,Neural crest
+Felis catus,15,Premaxillo.nasal,suture23,Neural crest
+Macroscelides proboscideus,8,Premaxillo.nasal,suture23,Neural crest
+Phataginus tricuspis,8,Premaxillo.nasal,suture23,Neural crest
+Microcebus murinus,3,Premaxillo.nasal,suture23,Neural crest
+Monodelphis domestica,3,Premaxillo.nasal,suture23,Neural crest
+Mus musculus,18,Premaxillo.nasal,suture23,Neural crest
+Ornithorhynchus anatinus,12,Premaxillo.nasal,suture23,Neural crest
+Phacochoerus aethiopicus,25,Premaxillo.nasal,suture23,Neural crest
+Phascolarctos cincereus,26,Premaxillo.nasal,suture23,Neural crest
+Rattus rattus,17,Premaxillo.nasal,suture23,Neural crest
+Setifer setosus,12,Premaxillo.nasal,suture23,Neural crest
+Setonix brachyurus,3,Premaxillo.nasal,suture23,Neural crest
+Sminthopsis macroura,2,Premaxillo.nasal,suture23,Neural crest
+Talpa europaea,6,Premaxillo.nasal,suture23,Neural crest
+Trichosaurus vulpecula,2,Premaxillo.nasal,suture23,Neural crest
+Bettongia penicillata,7,Internasal,suture24,Neural crest
+Bradypus tridactylus,12,Internasal,suture24,Neural crest
+Sapajus apella,2,Internasal,suture24,Neural crest
+Cyclopes didactylus,6,Internasal,suture24,Neural crest
+Dasyprocta leporina,14,Internasal,suture24,Neural crest
+Dasypus novemcinctus,1,Internasal,suture24,Neural crest
+Epomops franqueti,2,Internasal,suture24,Neural crest
+Felis catus,11,Internasal,suture24,Neural crest
+Macroscelides proboscideus,5,Internasal,suture24,Neural crest
+Phataginus tricuspis,3,Internasal,suture24,Neural crest
+Microcebus murinus,3,Internasal,suture24,Neural crest
+Monodelphis domestica,10,Internasal,suture24,Neural crest
+Mus musculus,1,Internasal,suture24,Neural crest
+Ornithorhynchus anatinus,26,Internasal,suture24,Neural crest
+Phacochoerus aethiopicus,20,Internasal,suture24,Neural crest
+Phascolarctos cincereus,15,Internasal,suture24,Neural crest
+Rattus rattus,1,Internasal,suture24,Neural crest
+Setifer setosus,1,Internasal,suture24,Neural crest
+Setonix brachyurus,10,Internasal,suture24,Neural crest
+Sminthopsis macroura,3,Internasal,suture24,Neural crest
+Talpa europaea,3,Internasal,suture24,Neural crest
+Trichosaurus vulpecula,7,Internasal,suture24,Neural crest
+Bettongia penicillata,5,Maxillo.jugal,suture25,Neural crest
+Bradypus tridactylus,10,Maxillo.jugal,suture25,Neural crest
+Sapajus apella,8,Maxillo.jugal,suture25,Neural crest
+Cyclopes didactylus,26,Maxillo.jugal,suture25,Neural crest
+Dasyprocta leporina,4,Maxillo.jugal,suture25,Neural crest
+Dasypus novemcinctus,10,Maxillo.jugal,suture25,Neural crest
+Epomops franqueti,14,Maxillo.jugal,suture25,Neural crest
+Felis catus,5,Maxillo.jugal,suture25,Neural crest
+Macroscelides proboscideus,8,Maxillo.jugal,suture25,Neural crest
+Phataginus tricuspis,29,Maxillo.jugal,suture25,Neural crest
+Microcebus murinus,8,Maxillo.jugal,suture25,Neural crest
+Monodelphis domestica,6,Maxillo.jugal,suture25,Neural crest
+Mus musculus,10,Maxillo.jugal,suture25,Neural crest
+Ornithorhynchus anatinus,1,Maxillo.jugal,suture25,Neural crest
+Phacochoerus aethiopicus,14,Maxillo.jugal,suture25,Neural crest
+Phascolarctos cincereus,2,Maxillo.jugal,suture25,Neural crest
+Rattus rattus,7,Maxillo.jugal,suture25,Neural crest
+Setifer setosus,30,Maxillo.jugal,suture25,Neural crest
+Setonix brachyurus,8,Maxillo.jugal,suture25,Neural crest
+Sminthopsis macroura,3,Maxillo.jugal,suture25,Neural crest
+Talpa europaea,2,Maxillo.jugal,suture25,Neural crest
+Trichosaurus vulpecula,7,Maxillo.jugal,suture25,Neural crest
+Bettongia penicillata,9,Maxillo.lacrimal,suture26,Neural crest
+Bradypus tridactylus,2,Maxillo.lacrimal,suture26,Neural crest
+Sapajus apella,6,Maxillo.lacrimal,suture26,Neural crest
+Cyclopes didactylus,7,Maxillo.lacrimal,suture26,Neural crest
+Dasyprocta leporina,14,Maxillo.lacrimal,suture26,Neural crest
+Dasypus novemcinctus,7,Maxillo.lacrimal,suture26,Neural crest
+Epomops franqueti,12,Maxillo.lacrimal,suture26,Neural crest
+Felis catus,24,Maxillo.lacrimal,suture26,Neural crest
+Macroscelides proboscideus,17,Maxillo.lacrimal,suture26,Neural crest
+Phataginus tricuspis,18,Maxillo.lacrimal,suture26,Neural crest
+Microcebus murinus,6,Maxillo.lacrimal,suture26,Neural crest
+Monodelphis domestica,4,Maxillo.lacrimal,suture26,Neural crest
+Mus musculus,2,Maxillo.lacrimal,suture26,Neural crest
+Ornithorhynchus anatinus,1,Maxillo.lacrimal,suture26,Neural crest
+Phacochoerus aethiopicus,14,Maxillo.lacrimal,suture26,Neural crest
+Phascolarctos cincereus,6,Maxillo.lacrimal,suture26,Neural crest
+Rattus rattus,24,Maxillo.lacrimal,suture26,Neural crest
+Setifer setosus,7,Maxillo.lacrimal,suture26,Neural crest
+Setonix brachyurus,7,Maxillo.lacrimal,suture26,Neural crest
+Sminthopsis macroura,5,Maxillo.lacrimal,suture26,Neural crest
+Talpa europaea,8,Maxillo.lacrimal,suture26,Neural crest
+Trichosaurus vulpecula,4,Maxillo.lacrimal,suture26,Neural crest
+Bettongia penicillata,17,Naso.frontal,suture27,Neural crest
+Bradypus tridactylus,10,Naso.frontal,suture27,Neural crest
+Sapajus apella,3,Naso.frontal,suture27,Neural crest
+Cyclopes didactylus,23,Naso.frontal,suture27,Neural crest
+Dasyprocta leporina,21,Naso.frontal,suture27,Neural crest
+Dasypus novemcinctus,12,Naso.frontal,suture27,Neural crest
+Epomops franqueti,7,Naso.frontal,suture27,Neural crest
+Felis catus,8,Naso.frontal,suture27,Neural crest
+Macroscelides proboscideus,12,Naso.frontal,suture27,Neural crest
+Phataginus tricuspis,25,Naso.frontal,suture27,Neural crest
+Microcebus murinus,6,Naso.frontal,suture27,Neural crest
+Monodelphis domestica,2,Naso.frontal,suture27,Neural crest
+Mus musculus,16,Naso.frontal,suture27,Neural crest
+Ornithorhynchus anatinus,1,Naso.frontal,suture27,Neural crest
+Phacochoerus aethiopicus,14,Naso.frontal,suture27,Neural crest
+Phascolarctos cincereus,8,Naso.frontal,suture27,Neural crest
+Rattus rattus,7,Naso.frontal,suture27,Neural crest
+Setifer setosus,1,Naso.frontal,suture27,Neural crest
+Setonix brachyurus,13,Naso.frontal,suture27,Neural crest
+Sminthopsis macroura,11,Naso.frontal,suture27,Neural crest
+Talpa europaea,4,Naso.frontal,suture27,Neural crest
+Trichosaurus vulpecula,7,Naso.frontal,suture27,Neural crest
+Bettongia penicillata,3,Lacrimo.frontal,suture28,Neural crest
+Bradypus tridactylus,22,Lacrimo.frontal,suture28,Neural crest
+Sapajus apella,5,Lacrimo.frontal,suture28,Neural crest
+Cyclopes didactylus,2,Lacrimo.frontal,suture28,Neural crest
+Dasyprocta leporina,30,Lacrimo.frontal,suture28,Neural crest
+Dasypus novemcinctus,12,Lacrimo.frontal,suture28,Neural crest
+Epomops franqueti,4,Lacrimo.frontal,suture28,Neural crest
+Felis catus,31,Lacrimo.frontal,suture28,Neural crest
+Macroscelides proboscideus,8,Lacrimo.frontal,suture28,Neural crest
+Phataginus tricuspis,25,Lacrimo.frontal,suture28,Neural crest
+Microcebus murinus,1,Lacrimo.frontal,suture28,Neural crest
+Monodelphis domestica,4,Lacrimo.frontal,suture28,Neural crest
+Mus musculus,14,Lacrimo.frontal,suture28,Neural crest
+Ornithorhynchus anatinus,1,Lacrimo.frontal,suture28,Neural crest
+Phacochoerus aethiopicus,18,Lacrimo.frontal,suture28,Neural crest
+Phascolarctos cincereus,18,Lacrimo.frontal,suture28,Neural crest
+Rattus rattus,26,Lacrimo.frontal,suture28,Neural crest
+Setifer setosus,7,Lacrimo.frontal,suture28,Neural crest
+Setonix brachyurus,2,Lacrimo.frontal,suture28,Neural crest
+Sminthopsis macroura,8,Lacrimo.frontal,suture28,Neural crest
+Talpa europaea,17,Lacrimo.frontal,suture28,Neural crest
+Trichosaurus vulpecula,4,Lacrimo.frontal,suture28,Neural crest
+Bettongia penicillata,17,Jugo.squamosal,suture29,Neural crest
+Bradypus tridactylus,28,Jugo.squamosal,suture29,Neural crest
+Sapajus apella,8,Jugo.squamosal,suture29,Neural crest
+Cyclopes didactylus,26,Jugo.squamosal,suture29,Neural crest
+Dasyprocta leporina,11,Jugo.squamosal,suture29,Neural crest
+Dasypus novemcinctus,25,Jugo.squamosal,suture29,Neural crest
+Epomops franqueti,12,Jugo.squamosal,suture29,Neural crest
+Felis catus,24,Jugo.squamosal,suture29,Neural crest
+Macroscelides proboscideus,30,Jugo.squamosal,suture29,Neural crest
+Phataginus tricuspis,29,Jugo.squamosal,suture29,Neural crest
+Microcebus murinus,12,Jugo.squamosal,suture29,Neural crest
+Monodelphis domestica,15,Jugo.squamosal,suture29,Neural crest
+Mus musculus,28,Jugo.squamosal,suture29,Neural crest
+Ornithorhynchus anatinus,1,Jugo.squamosal,suture29,Neural crest
+Phacochoerus aethiopicus,27,Jugo.squamosal,suture29,Neural crest
+Phascolarctos cincereus,18,Jugo.squamosal,suture29,Neural crest
+Rattus rattus,30,Jugo.squamosal,suture29,Neural crest
+Setifer setosus,30,Jugo.squamosal,suture29,Neural crest
+Setonix brachyurus,21,Jugo.squamosal,suture29,Neural crest
+Sminthopsis macroura,10,Jugo.squamosal,suture29,Neural crest
+Talpa europaea,15,Jugo.squamosal,suture29,Neural crest
+Trichosaurus vulpecula,24,Jugo.squamosal,suture29,Neural crest
+Bettongia penicillata,20,Palato.alisphenoid,suture30,Neural crest
+Bradypus tridactylus,6,Palato.alisphenoid,suture30,Neural crest
+Sapajus apella,12,Palato.alisphenoid,suture30,Neural crest
+Cyclopes didactylus,7,Palato.alisphenoid,suture30,Neural crest
+Dasyprocta leporina,18,Palato.alisphenoid,suture30,Neural crest
+Dasypus novemcinctus,2,Palato.alisphenoid,suture30,Neural crest
+Epomops franqueti,24,Palato.alisphenoid,suture30,Neural crest
+Felis catus,8,Palato.alisphenoid,suture30,Neural crest
+Macroscelides proboscideus,12,Palato.alisphenoid,suture30,Neural crest
+Phataginus tricuspis,17,Palato.alisphenoid,suture30,Neural crest
+Microcebus murinus,26,Palato.alisphenoid,suture30,Neural crest
+Monodelphis domestica,13,Palato.alisphenoid,suture30,Neural crest
+Mus musculus,14,Palato.alisphenoid,suture30,Neural crest
+Ornithorhynchus anatinus,20,Palato.alisphenoid,suture30,Neural crest
+Phacochoerus aethiopicus,5,Palato.alisphenoid,suture30,Neural crest
+Phascolarctos cincereus,24,Palato.alisphenoid,suture30,Neural crest
+Rattus rattus,7,Palato.alisphenoid,suture30,Neural crest
+Setifer setosus,17,Palato.alisphenoid,suture30,Neural crest
+Setonix brachyurus,12,Palato.alisphenoid,suture30,Neural crest
+Sminthopsis macroura,23,Palato.alisphenoid,suture30,Neural crest
+Talpa europaea,27,Palato.alisphenoid,suture30,Neural crest
+Trichosaurus vulpecula,14,Palato.alisphenoid,suture30,Neural crest
+Bettongia penicillata,1,Palato.orbitosphenoid,suture31,Boundary
+Bradypus tridactylus,4,Palato.orbitosphenoid,suture31,Boundary
+Sapajus apella,20,Palato.orbitosphenoid,suture31,Boundary
+Cyclopes didactylus,3,Palato.orbitosphenoid,suture31,Boundary
+Dasyprocta leporina,14,Palato.orbitosphenoid,suture31,Boundary
+Dasypus novemcinctus,7,Palato.orbitosphenoid,suture31,Boundary
+Epomops franqueti,20,Palato.orbitosphenoid,suture31,Boundary
+Felis catus,15,Palato.orbitosphenoid,suture31,Boundary
+Macroscelides proboscideus,5,Palato.orbitosphenoid,suture31,Boundary
+Phataginus tricuspis,3,Palato.orbitosphenoid,suture31,Boundary
+Microcebus murinus,29,Palato.orbitosphenoid,suture31,Boundary
+Monodelphis domestica,7,Palato.orbitosphenoid,suture31,Boundary
+Mus musculus,19,Palato.orbitosphenoid,suture31,Boundary
+Ornithorhynchus anatinus,19,Palato.orbitosphenoid,suture31,Boundary
+Phacochoerus aethiopicus,18,Palato.orbitosphenoid,suture31,Boundary
+Phascolarctos cincereus,1,Palato.orbitosphenoid,suture31,Boundary
+Rattus rattus,19,Palato.orbitosphenoid,suture31,Boundary
+Setifer setosus,21,Palato.orbitosphenoid,suture31,Boundary
+Setonix brachyurus,1,Palato.orbitosphenoid,suture31,Boundary
+Sminthopsis macroura,25,Palato.orbitosphenoid,suture31,Boundary
+Talpa europaea,19,Palato.orbitosphenoid,suture31,Boundary
+Trichosaurus vulpecula,1,Palato.orbitosphenoid,suture31,Boundary
