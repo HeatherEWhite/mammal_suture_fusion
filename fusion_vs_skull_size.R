@@ -44,6 +44,7 @@ all_data <- read.csv("Data/Specimen_info.csv")
 combined_data_adults <- as.data.frame(TSCS_adults) %>%
   mutate(logCS = adults_data$CS_logged)
 names(combined_data_adults)[names(combined_data_adults) == "closure_score_."] <- "total_closure_score"
+names(combined_data_adults)[names(combined_data_adults) == "X"] <- "Species"
 # All specimens
 combined_data <- as.data.frame(TSCS_all) %>%
   mutate(logCS = all_data$CS_logged, Species = all_data$Species)
@@ -74,7 +75,23 @@ combined_data_tbl$Species <- factor(combined_data_tbl$Species,
 
 #########################################################################################################
 
-# STEP 2: Spearman's rank correlation between total suture closure scores and skull size - ADULTS ONLY
+# STEP 2: Plot the data - skull size vs total suture closure score 
+
+
+# Scatter plot CS vs TSCS
+CS_vs_MSC <- ggplot(combined_data_adults, aes(x = logCS, y = total_closure_score, label = Species))+
+  geom_point(size = 2)+
+  geom_text_repel(aes(fontface="italic"), size = 3)+
+  theme_classic(base_size = 12)+
+  xlab("Size (logged centroid size)")+
+  ylab("Total suture closure score")+
+  ggtitle("Log CS vs MSC for adults only")
+CS_vs_MSC
+
+
+#########################################################################################################
+
+# STEP 3: Spearman's rank correlation between total suture closure scores and skull size - ADULTS ONLY
 
 
 # Plot the results - adults only
@@ -95,7 +112,7 @@ cor_adults
 
 #########################################################################################################
 
-# STEP 3: Spearman's rank correlation between total suture closure scores and skull size - FULL DEVELOPMENTAL DATASET
+# STEP 4: Spearman's rank correlation between total suture closure scores and skull size - FULL DEVELOPMENTAL DATASET
 
 # Plot the results - all specimens
 ggscatter(combined_data, x = "logCS", y = "total_closure_score", 
@@ -113,7 +130,7 @@ cor_all
 
 #########################################################################################################
 
-# STEP 4: Spearman's rank correlation between total suture closure scores and skull size - for each species seperately
+# STEP 5: Spearman's rank correlation between total suture closure scores and skull size - for each species seperately
 
 
 # Plot the results as regressions for each species seperately and colour by species
@@ -140,7 +157,7 @@ as.data.frame(Spearman_species)
 
 #########################################################################################################
 
-# STEP 5: Phylogenetic correction for adult correlation
+# STEP 6: Phylogenetic correction for adult correlation
 
 
 # Read in phylogeny and taxa names
