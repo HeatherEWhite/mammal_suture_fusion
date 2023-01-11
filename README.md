@@ -2,7 +2,7 @@
 
 __Authors:__
 [Heather E White](mailto:heather.white.17@ucl.ac.uk), 
-Abigail S Tucker
+Abigail S Tucker,
 Anjali Goswami
 
 __To cite the paper__: 
