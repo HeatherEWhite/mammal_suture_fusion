@@ -24,7 +24,7 @@ UPDATE ZENODO DOI'S ABOVE
 
 ## Data
 
-In this folder you will find data stored in the `Data` folder used for running the scripts stored in the main folder.
+In this folder you will find data stored in the `Data` folder used for running the scripts stored in the `Code_for_analyses` folder.
 
 All .csv documents have single tabs 
 
