@@ -40,7 +40,7 @@ Phylogeny_species_list <- read.csv("Data/tree_taxa_names.csv")
 plotTree(tree_species,ftype="i")
 
 
-# Load total suture closure score data - adults only
+# Load total suture closure score data - adults only - saved from "suture_closure_scores.R" code
 TSCS_adults <- read.csv("Data/total_suture_closure_scores_adults.csv")
 # Select the closure scores only
 TSCS_adults <- TSCS_adults$closure_score_.
@@ -84,7 +84,7 @@ combined <- combined %>%
 combined
 
 # Save data if necessary
-#write.csv(combined, file = "Analysis/Suture_closure/reconstructed_ancestral_states_suture_closure_adults.csv")
+#write.csv(combined, file = "reconstructed_ancestral_states_suture_closure_adults.csv")
 
 
 #########################################################################################################
