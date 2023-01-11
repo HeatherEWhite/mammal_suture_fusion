@@ -455,7 +455,9 @@ colnames(MSC_sutures_species) <- adults_data$Species
 # This .csv combines the results from step 7 and adults only (step 2)
 suture_closure_av_age <- read.csv("Data/suture_closure_average_by_age.csv")
 
-# Calculated total suture closure scores for each specimen but by Krogman region (Krogman, 1930)
+# Calculated total suture closure scores for each specimen
+# Combining all sutures for each Krogman region (Krogman, 1930)
+# Suture closure score for every specimen for each of the six regions
 suture_closure_av_krog <- read.csv("Data/suture_closure_score_per_specimen_per_Krogman_region.csv")
 
 
