@@ -30,7 +30,8 @@ library(broom)
 # STEP 1: Load and format the data
 
 
-# Order the sutures based on the percentage of fusion calculated (as described in manuscript)
+# Order the sutures based on the percentage of fusion (suture closure scores) calculated (as described in manuscript)
+# Suture closure scores calculated in "suture_closure_scores.R" script
 # Load this rank order data
 rank <- read.csv("Data/rank_order_sutures.csv")
 
@@ -79,7 +80,7 @@ for (i in 1:length(names(PairwiseComparisons))){
 }
 
 # Save if necessary
-#write.csv(Pvalues, "Analysis/Suture_closure/Pairwise_comparison_results_rank_order_suture_closure.csv")
+#write.csv(Pvalues, "Pairwise_comparison_results_rank_order_suture_closure.csv")
 
 ########
 
@@ -94,7 +95,7 @@ CorrectedPvalues <- matrix(nrow = length(names(PairwiseComparisons)),
 CorrectedPvalues[,1] <- p.adjust(Pvalues[,1], method = "bonferroni", n = length(PairwiseComparisons))
 
 # Save if necessary
-#write.csv(CorrectedPvalues, "Analysis/Suture_closure/Pairwise_comparisons_corrected_pvalues_rank_order_suture_closure.csv")
+#write.csv(CorrectedPvalues, "Pairwise_comparisons_corrected_pvalues_rank_order_suture_closure.csv")
 
 
 #########################################################################################################
@@ -103,9 +104,10 @@ CorrectedPvalues[,1] <- p.adjust(Pvalues[,1], method = "bonferroni", n = length(
 
 
 # Load the data
-# Average adults data
+# Average across sutures in each Krogman region (adult specimens only) 
+# Then averaged across all species, to calculate average closure and average rank order
 average_adults <- read.csv("Data/average_adult_score_Krogman_rank.csv")
-# Average data for marsupials and placentals seperated
+# Same as above but seperated for marsupials and placentals
 marsupial_placental_pattern <- read.csv("Data/average_total_suture_closure_adults_marsupials_vs_placentals_Krogman.csv")
 
 
@@ -114,6 +116,7 @@ marsupial_placental_pattern <- read.csv("Data/average_total_suture_closure_adult
 # and compared using Kendall's tau to the Krogman pattern
 average_adult_vs_Krogman_rank <-cor.test(average_adults$Adult_rank, average_adults$Krogman.rank, 
                                          method = "kendall", exact = F)
+average_adult_vs_Krogman_rank
 
 
 # Average total suture closure score is calculated across the adult only species for each Krogman region
@@ -122,7 +125,9 @@ average_adult_vs_Krogman_rank <-cor.test(average_adults$Adult_rank, average_adul
 # and compared using Kendall's tau to the Krogman pattern
 # For both marsupials and placentals seperately
 marsupial_adult_vs_Krogman_rank <- cor.test(marsupial_placental_pattern$Marsupials_adults_order, marsupial_placental_pattern$Krogman_order, method = "kendall", exact = F)
+marsupial_adult_vs_Krogman_rank
 placental_adult_vs_Krogman_rank <- cor.test(marsupial_placental_pattern$Placentals_adults_order, marsupial_placental_pattern$Krogman_order, method = "kendall", exact = F)
+placental_adult_vs_Krogman_rank
 
 # A significant p-value (p < 0.05) indicates a significant correlation with the Krogman pattern
 
@@ -134,6 +139,7 @@ placental_adult_vs_Krogman_rank <- cor.test(marsupial_placental_pattern$Placenta
 
 # Load the data - order of suture fusion
 # A .csv containing the order of fusion for each suture and for each species - with all specimens combined for each species
+# Data below is reformatted from the data loaded in STEP 1
 rank_box <- read.csv("Data/rank_order_sutures_boxplot.csv")
 
 # Create a variable containing the suture names
@@ -220,8 +226,8 @@ suture_rank_box_dev <- ggplot(rank_box, aes(x=Suture_number, y=closure_rank, fil
 suture_rank_box_dev
 
 # Suture closure scores as calculated from "suture_closure_scores.R" code
-all_suture_closure <- read.csv("Data/average_suture_closure_per_suture_all_specimens.csv")
-adult_suture_closure <- read.csv("Data/average_suture_closure_per_suture_adults.csv")
+all_suture_closure <- read.csv("Data/suture_closure_scores_all_specimens_dev_origin.csv")
+adult_suture_closure <- read.csv("Data/suture_closure_scores_adults_dev_origin.csv")
 
 # Correlation between closure score (%) and dev origin - all specimens combined
 cor_dev_all <- lm(SCS ~ Dev_origin, data = all_suture_closure)
