@@ -100,7 +100,69 @@ CorrectedPvalues[,1] <- p.adjust(Pvalues[,1], method = "bonferroni", n = length(
 
 #########################################################################################################
 
-# STEP 3: Average rank order closure vs Krogman pattern - Kendall's tau
+# STEP 3: Compare each species' pattern of fusion with the Krogman pattern - Kendall's tau
+
+
+# Load the data
+# Adults only
+# SCS calculated by combining all sutures for each Krogman for an individual species
+# Rank order is then calculated from this - see STEP 9 in "suture_closure_scores.R" script
+rank_krog_adults <- read.csv("Data/rank_order_adults_Krogman_region.csv")
+
+# Reorder and rename headings so they match the species names
+krog_names <- c("Vault", 'Cranial base', "Circum-meatal", "Palate", "Facial", "Cranio-facial")
+rank_krog_adults <- rank_krog_adults %>% select(2:24)
+rownames(rank_krog_adults) <- krog_names
+
+# Make sure species order is set the same as the data
+species_adults <- c("Bettongia penicillata", "Bradypus tridactylus", "Sapajus apella",            
+                    "Cyclopes didactylus", "Dasyprocta leporina", "Dasypus novemcinctus",
+                    "Epomops franqueti", "Felis catus", "Macroscelides proboscideus",
+                    "Phataginus tricuspis", "Microcebus murinus", "Monodelphis domestica",
+                    "Mus musculus", "Ornithorhynchus anatinus", "Phacochoerus aethiopicus", 
+                    "Phascolarctos cincereus", "Rattus rattus", "Setifer setosus",       
+                    "Setonix brachyurus", "Sminthopsis macroura", "Talpa europaea",          
+                    "Trichosaurus vulpecula", "Krogman pattern")
+colnames(rank_krog_adults) <- species_adults
+species_adults <- as.data.frame(species_adults)
+
+# Iteratively create two species pattern with Krogman pattern using Kendalls test
+PairwiseComparisons_krog_adults=list()
+i=1
+n=2
+for (i in 1:23){ 
+  for (h in n:23){ 
+    if (i==length(species_adults$species_adults)){
+      break
+    }else
+      SpeciesA <- species_adults$species_adults[i]
+    SpeciesB <- species_adults$species_adults[h]
+    toMatch <- c(SpeciesA, SpeciesB)
+    filename <- paste(SpeciesA, SpeciesB, sep=" vs. ")
+    cor_pairwise <-cor.test(rank_krog_adults[[SpeciesA]], rank_krog_adults[[SpeciesB]], method = "kendall", exact = F)
+    PairwiseComparisons_krog_adults[[filename]]<-cor_pairwise
+  }
+  n=n+1
+}
+
+# Create matrix and fill with values from pairwise comparisons
+# Fills the matrix with all pairwise comparisons from PairwiseComparisons object using $aov.table
+Pvalues_krog_adults = matrix (nrow = length(names(PairwiseComparisons_krog_adults)), 
+                              ncol = length(c(paste("Kendall", names(PairwiseComparisons_krog_adults[[i]]$p.value[1]), sep = "_"), names(PairwiseComparisons_krog_adults[[i]]$estimate[1]))),
+                              dimnames = list(c(names(PairwiseComparisons_krog_adults)), c(paste("Kendall", names(PairwiseComparisons_krog_adults[[i]]$p.value[2]), sep = "_"), names(PairwiseComparisons_krog_adults[[i]]$estimate[1])))
+)
+
+for (i in 1:length(names(PairwiseComparisons_krog_adults))){
+  Pvalues_krog_adults[i,] <- rbind(as.numeric(paste(c(PairwiseComparisons_krog_adults[[i]]$p.value[1], PairwiseComparisons_krog_adults[[i]]$estimate[1]))))
+}
+
+# No Bonferroni correction done here, as only individual species and Krogman pattern data is used
+# Not iterative pairwise comparisons
+
+
+#########################################################################################################
+
+# STEP 4: Average rank order closure vs Krogman pattern - Kendall's tau
 
 
 # Load the data
@@ -134,7 +196,7 @@ placental_adult_vs_Krogman_rank
 
 #########################################################################################################
 
-# STEP 4: Plot the order of suture fusion across all 31 sutures
+# STEP 5: Plot the order of suture fusion across all 31 sutures
 
 
 # Load the data - order of suture fusion
@@ -203,7 +265,7 @@ suture_rank_box_placentals
 
 #########################################################################################################
 
-# STEP 5: Correlation between developmental origin and suture fusion
+# STEP 6: Correlation between developmental origin and suture fusion
 
 
 # Developmental origin = mesoderm, neural crest, boundary
