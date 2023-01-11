@@ -164,8 +164,8 @@ as.data.frame(Spearman_species)
 my_tree <- read.nexus("Data/my_mammal_tree.nexus")
 tree_names <- read.csv("Data/tree_taxa_names.csv")
 
-# Add the phylogeny taxa names to the adult only dataframe
-pglsdata <- combined_data_adults %>% mutate(Taxa_names = tree_names$Taxa_names)
+# Load the data - same data as above but ordered for the phylogeny
+pglsdata <- read.csv("Data/TSCS_adults_CS_pgls.csv")
 
 
 # Run the phylogenetic generalised least squares (pgls) model
