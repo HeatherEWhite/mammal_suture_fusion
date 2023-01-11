@@ -120,7 +120,7 @@ MSC_sutures
 rownames(MSC_sutures) <- suture_names
 
 # Save the data if necessary
-#write.csv(MSC_sutures, "Analysis/Suture_closure/average_suture_closure_per_suture_adults.csv")
+#write.csv(MSC_sutures, "average_suture_closure_per_suture_adults.csv")
 
 ########
 
@@ -142,7 +142,7 @@ MSC_sutures_marsupials
 rownames(MSC_sutures_marsupials) <- suture_names
 
 # Save the data if necessary
-#write.csv(MSC_sutures_marsupials, "Analysis/Suture_closure/average_suture_closure_per_suture_adults_marsupials.csv")
+#write.csv(MSC_sutures_marsupials, "average_suture_closure_per_suture_adults_marsupials.csv")
 
 ########
 
@@ -164,7 +164,7 @@ MSC_sutures_placentals
 rownames(MSC_sutures_placentals) <- suture_names
 
 # Save the data if necessary
-#write.csv(MSC_sutures_placentals, "Analysis/Suture_closure/average_suture_closure_per_suture_adults_placentals.csv")
+#write.csv(MSC_sutures_placentals, "average_suture_closure_per_suture_adults_placentals.csv")
 
 
 #######################################################################################################
@@ -195,7 +195,7 @@ MSC_all_specimens
 rownames(MSC_all_specimens) <- all_data$Specimen
 
 # Save the data if necessary
-#write.csv(MSC_all_specimens, "Analysis/Suture_closure/overall_suture_closure_all_specimens.csv")
+#write.csv(MSC_all_specimens, "overall_suture_closure_all_specimens.csv")
 
 
 #######################################################################################################
@@ -225,7 +225,7 @@ MSC_all_specimens_suture
 rownames(MSC_all_specimens_suture) <- suture_names
 
 # Save the data if necessary
-#write.csv(MSC_all_specimens_suture, "Analysis/Suture_closure/average_suture_closure_per_suture_all_specimens.csv")
+#write.csv(MSC_all_specimens_suture, "average_suture_closure_per_suture_all_specimens.csv")
 
 
 #######################################################################################################
@@ -337,7 +337,7 @@ mean_fetal <- MSC_fetal %>%
   summarize(Mean_closure = mean(V1))
 
 # Save the data if necessary
-#write.csv(mean_embryo, "Analysis/Suture_closure/mean_closure_species_embryos.csv")
+#write.csv(mean_embryo, "mean_closure_species_embryos.csv")
 
 
 #######
@@ -370,7 +370,7 @@ mean_infant <- MSC_infant %>%
   summarize(Mean_closure = mean(V1))
 
 # Save the data if necessary
-#write.csv(mean_infant, "Analysis/Suture_closure/mean_closure_species_infants.csv")
+#write.csv(mean_infant, "mean_closure_species_infants.csv")
 
 
 #######
@@ -403,7 +403,7 @@ mean_SA <- MSC_SA %>%
   summarize(Mean_closure = mean(V1))
 
 # Save the data if necessary
-#write.csv(mean_SA, "Analysis/Suture_closure/mean_closure_species_subadults.csv")
+#write.csv(mean_SA, "mean_closure_species_subadults.csv")
 
 
 #######################################################################################################
@@ -439,8 +439,9 @@ MSC_sutures_species <- cbind(MSC_Bettongia, MSC_Bradypus, MSC_Sapajus, MSC_Cyclo
 colnames(MSC_sutures_species) <- adults_data$Species
 
 # Save the data if necessary
-#write.csv(MSC_sutures_species, "Analysis/Suture_closure/suture_closure_score_species_average_per_suture.csv")
+#write.csv(MSC_sutures_species, "Data/suture_closure_score_species_average_per_suture.csv")
 
+MSC_sutures_species <- read.csv("Data/suture_closure_score_species_average_per_suture.csv")
 
 
 #######################################################################################################
@@ -618,5 +619,6 @@ suture_closure_age_cat <- ggplot(suture_closure_av_age_tbl, aes(x = Age, y = tot
   ylab("Total suture closure score %")+
   ggtitle("Suture closure against age")
 suture_closure_age_cat
+
 
 ### END ###
