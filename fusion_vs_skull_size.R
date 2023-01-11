@@ -29,7 +29,7 @@ library(broom)
 
 # STEP 1: Load and format the data
 
-# Total suture closure scores for adults and all specimens
+# Total suture closure scores for adults and all specimens - as saved from "suture_closure_scores.R" code
 # Summing all sutures per specimen
 TSCS_adults <- read.csv("Data/total_suture_closure_scores_adults.csv")
 TSCS_all <- read.csv("Data/total_suture_closure_scores_all.csv")
