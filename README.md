@@ -28,7 +28,7 @@ In this folder you will find data stored in the `Data` folder used for running t
 
 All .csv documents have single tabs 
 
-The data are provided in the `Data` folder
+The data used here are provided in the `Data` folder
 1. `Specimen_info` - full dataset specimen details (n=165), including: continuous and discrete age, species, centroid size, raw closure scores (.csv)
 2. `Specimen_info_adults` - details for the adult only specimens (n=22) as above (.csv)
 3. `TSCS_adults_CS_pgls` - adult total suture closure scores and centroid size for PGLS of closure and skull size correlation (.csv)
