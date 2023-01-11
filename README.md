@@ -50,7 +50,7 @@ The data used here are provided in the `Data` folder
 19. `tree_taxa_names` - taxa names matching those within the phylogeny for the full dataset (.csv)
 
 ## Analysis
-In this repository you will find raw data (.csv, .Rdata, .nexus) and scripts for analyses (scripts supplied as .R files)
+In this repository you will find raw data (.csv and .nexus) and scripts for analyses (scripts supplied as .R files)
 
  :file_folder:
 * **Data**
