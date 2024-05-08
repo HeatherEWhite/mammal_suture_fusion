@@ -17,7 +17,7 @@ __To cite this repo__:
 
 > White HW, Tucker AS, Goswami A. Divergent cranial suture fusion at the marsupial-placental boundary. Journal details needed. 2023. Github: https://github.com/HeatherEWhite/mammal_suture_fusion plus the Zenodo DOI: https://doi.org/10.5281/zenodo.4037220
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4037220.svg)](https://doi.org/10.5281/zenodo.4037220)
+[![DOI](https://zenodo.org/doi/10.5281/zenodo.11150952.svg)](https://zenodo.org/doi/10.5281/zenodo.11150952)
 
 UPDATE ZENODO DOI'S ABOVE
 
